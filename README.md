@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **imaparvesh75@gmail.com**
 
-- ⚡ Fun fact **Promises in JavaScript is hoax.Becauses,developers like me only promise, but neve calls back**
+- ⚡ Fun fact **Promises in JavaScript is hoax.Becauses,developers like me only promise, but never calls back**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
