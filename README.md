@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on SQL based Projects
 
-- 🌱 I’m currently learning **SQL IN DEPTH**
+- 🌱 I’m currently learning **SQL & TypeScript in DEPTH**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
