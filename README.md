@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parveshqaiser" alt="parveshqaiser" /></a> </p>
 
-- 🔭 I’m currently working on SQL based Projects
+- 🔭 I’m currently working on SQL & TypeScript based Projects
 
 - 🌱 I’m currently learning **SQL & TypeScript** in depth.
 
