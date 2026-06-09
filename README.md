@@ -6,7 +6,7 @@ Mern Stack Developer
 
 * 🌍  I'm based in Hyderabad,India
 * ✉️  You can contact me at [imaparvesh75@gmail.com](mailto:imaparvesh75@gmail.com)
-* 🧠  I'm currently learning postgres, mysql
+* 🧠  I'm currently learning redis, microservies architecture
 * 👥  I'm looking to collaborate on Open Source Projects
 * 💬  Ask me about Ask Me anything about MERN but !(Java)
 
